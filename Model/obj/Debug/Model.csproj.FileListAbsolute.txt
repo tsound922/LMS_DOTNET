@@ -1,0 +1,12 @@
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\Model.dll.config
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\Model.dll
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\Model.pdb
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\EntityFramework.dll
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\EntityFramework.xml
+F:\.net 2017\Project2017\LMS\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\.net 2017\Project2017\LMS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\.net 2017\Project2017\LMS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\.net 2017\Project2017\LMS\Model\obj\Debug\Model.csproj.CopyComplete
+F:\.net 2017\Project2017\LMS\Model\obj\Debug\Model.dll
+F:\.net 2017\Project2017\LMS\Model\obj\Debug\Model.pdb
